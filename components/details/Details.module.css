@@ -1,0 +1,33 @@
+.root{
+    min-height: 400px;
+}
+.root ul{
+    margin: 0;
+    bottom: 0!important;
+}
+.root ul li{
+    border: 1px solid black;
+    background-color: black;
+}
+.data{
+    display: flex;
+    gap : 30px;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+.day{
+    padding : 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    min-height: 300px;
+}
+.pronostic{
+    display : flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+    font-size: 2rem;
+}

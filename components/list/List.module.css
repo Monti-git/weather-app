@@ -1,0 +1,14 @@
+.root{}
+.item{
+    padding : 10px 30px;
+}
+.empty{
+    min-height: 300px;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 25px;
+    justify-content: center;
+    background-color: beige;
+}

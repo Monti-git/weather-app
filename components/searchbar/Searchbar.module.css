@@ -1,0 +1,18 @@
+.root{ 
+    width: 100%;
+    text-align: center;
+    height: auto!important;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.label{
+    color : white;
+    font-weight: bold;
+    display: block;
+    font-size: 2.4rem;
+}
+.input{
+    max-width: 600px;
+
+}

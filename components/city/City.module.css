@@ -1,0 +1,17 @@
+.root{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.root button{
+    border: none;
+    background: none;
+    transition: all 0.4 ease;
+}
+.root button:last-child{
+    margin-left: 10px;
+}
+.root button:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}

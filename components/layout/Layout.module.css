@@ -1,0 +1,22 @@
+.content{
+    padding: 20px;
+    background-color: white;
+    max-width: 600px;
+    width: calc(100% - 40px);
+    margin: 30px auto;
+    overflow-y: auto;
+}
+.root .sidebar{
+    border-right: 1px solid #f0f0f0;
+    width: 300px;
+    max-width: 20%;
+    background-color: white;
+}
+.sideMenu{
+    position: sticky;
+    top: 0;
+}
+.root{
+    position: relative;
+    min-height: 100vh !important;
+}
