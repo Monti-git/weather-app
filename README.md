@@ -22,3 +22,5 @@ This project uses a weather api to obtain the weather report for the next few da
 Redux is used as the global state manager of the app.
 It is possible to favorite places.
 The bases for new Identitys, like zones, are put in place but not implemented yet.
+
+Modify the api variable in the .env file to https://www.metaweather.com/api/
